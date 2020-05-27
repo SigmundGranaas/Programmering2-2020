@@ -1,0 +1,17 @@
+
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(šµ²úÿÿÿÿ8‚ùÇØ¤.
+U	java:S106("9Replace this use of System.out or System.err by a logger.(É³Š§8‚ùÇØ¤.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ãÉ‹Üşÿÿÿÿ8‚ùÇØ¤.
+Z	java:S106!"9Replace this use of System.out or System.err by a logger.(Ì ûÒÿÿÿÿÿ8‚ùÇØ¤.
+Z	java:S106+"9Replace this use of System.out or System.err by a logger.(ã‚Ç³ûÿÿÿÿ8‚ùÇØ¤.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(»Ù¶…øÿÿÿÿ8‚ùÇØ¤.
+Z	java:S106%"9Replace this use of System.out or System.err by a logger.(°£°šúÿÿÿÿ8‚ùÇØ¤.
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(“íÛ’ıÿÿÿÿ8‚ùÇØ¤.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(½Ğ§ãúÿÿÿÿ8‚ùÇØ¤.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ÌÚô¢8‚ùÇØ¤.
+^
+java:S1854"<Remove this useless assignment to local variable "testdato".(ã¥á¾şÿÿÿÿ8Û¹ˆÜ¤.
+^
+java:S1854#"<Remove this useless assignment to local variable "testdato".(Ì·âíıÿÿÿÿ8Û¹ˆÜ¤.
+O
+java:S1481"-Remove this unused "testdato" local variable.(ã¥á¾şÿÿÿÿ8Û¹ˆÜ¤.

@@ -1,0 +1,10 @@
+
+N
+java:S1602.",Remove useless curly braces around statement(×ÏÙÁşÿÿÿÿ8üöß¤.
+x
+java:S1905$"VRemove this unnecessary cast to "org.sonar.java.resolve.Symbols$UnknownType@1fac343e".(íˆışÿÿÿÿ8Ã“›à¤.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ç£«—
+x
+java:S1905#"VRemove this unnecessary cast to "org.sonar.java.resolve.Symbols$UnknownType@1fac343e".(ı‹Ëëøÿÿÿÿ8Ã“›à¤.
+v
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÃñÏ8œ¼³ß¤.

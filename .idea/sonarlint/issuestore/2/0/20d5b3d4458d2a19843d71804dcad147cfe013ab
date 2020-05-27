@@ -1,0 +1,16 @@
+
+Q
+java:S1066o"/Merge this if statement with the enclosing one.(°ğ§äùÿÿÿÿ8Î”ôÛ¤.
+’
+java:S1319{"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(×ŠõÕÿÿÿÿÿ8¨Ì›Ü¤.
+r	java:S117f"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Äˆ°Úüÿÿÿÿ8–ĞñÛ¤.
+Z	java:S106R"9Replace this use of System.out or System.err by a logger.(öóÒñùÿÿÿÿ8ş­Ü¤.
+r	java:S117p"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡›­Äúÿÿÿÿ8ĞóÛ¤.
+[	java:S106"9Replace this use of System.out or System.err by a logger.(×¬’Üûÿÿÿÿ8°ş©Ü¤.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(“íÛ’ıÿÿÿÿ
+
+java:S1319w"mThe return type of this method should be an interface such as "Map" rather than the implementation "HashMap".(æ×ëíûÿÿÿÿ8¨Ì›Ü¤.
+N
+java:S1068",Remove this unused "MAKS_TRY" private field.(ÆäÖÖûÿÿÿÿ8ï¡šÙ¤.
+r	java:S117j"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úêê¡ùÿÿÿÿ8–ĞñÛ¤.
+[	java:S106‘"9Replace this use of System.out or System.err by a logger.(×¬’Üûÿÿÿÿ8‰ÛªÜ¤.

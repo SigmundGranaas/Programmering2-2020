@@ -1,0 +1,7 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(©§”±
+r	java:S116"XRename this field "ENROLLED_DATE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒŠÀşÿÿÿÿ
+i	java:S116"TRename this field "PERSONALS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×ŞÕ™
+h	java:S100B"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äş¥ÿÿÿÿÿ
+h	java:S1009"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Âä¥ñşÿÿÿÿ
+n	java:S116"TRename this field "MEMBER_NO" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ò´Ìÿÿÿÿÿ

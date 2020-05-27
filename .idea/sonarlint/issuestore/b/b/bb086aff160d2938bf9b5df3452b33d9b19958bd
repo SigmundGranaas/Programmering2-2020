@@ -1,0 +1,22 @@
+
+k	java:S117z"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úêê¡ùÿÿÿÿ
+G
+java:S1068",Remove this unused "MAKS_TRY" private field.(ÆäÖÖûÿÿÿÿ
+T	java:S106¡"9Replace this use of System.out or System.err by a logger.(×¬’Üûÿÿÿÿ
+k	java:S117v"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Äˆ°Úüÿÿÿÿ
+Œ
+java:S1319‹"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(×ŠõÕÿÿÿÿÿ
+l	java:S117€"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡›­Äúÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(©§”±
+E
+java:S1148T"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ÄÉÄ‚¥.
+Z	java:S106V"9Replace this use of System.out or System.err by a logger.(öóÒñùÿÿÿÿ8§öÈ‚¥.
+
+java:S1130"{Remove the declaration of thrown exception 'oblig4.B.IllegalImmigrantException', as it cannot be thrown from method's body.(Éöë‘ùÿÿÿÿ8åÌ£ƒ¥.
+‰
+java:S1319‡"mThe return type of this method should be an interface such as "Map" rather than the implementation "HashMap".(æ×ëíûÿÿÿÿ
+J
+java:S1066"/Merge this if statement with the enclosing one.(°ğ§äùÿÿÿÿ
+T	java:S106Ÿ"9Replace this use of System.out or System.err by a logger.(×¬’Üûÿÿÿÿ
+@
+java:S1148e"#Use a logger to log this exception.(Ç’Çê8©¢–ƒ¥.
